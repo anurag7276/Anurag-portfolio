@@ -29,8 +29,8 @@ const projects = [
     title: "Portfolio",
     description: "Professional developer portfolio with animations and responsive design.",
     image: "/images/portfolio.png",
-    github: "https://github.com/anurag7276",
-    live: "https://yourname-portfolio.vercel.app",
+    github: "https://github.com/anurag7276/Anurag-portfolio.git",
+    live: "https://anurag-portfolio-seven-ochre.vercel.app",
   },
 ];
 
