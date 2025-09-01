@@ -22,13 +22,13 @@ const certifications = [
 
     {
     name: "OCI 2025 AI Foundations Associate – Oracle University",
-    img: "/images/oci-ai-foundations.jpg",
-    link: "/images/oci-ai-foundations.jpg"
+    img: "/images/oci-ai-foundations.png",
+    link: "/images/oci-ai-foundations.png"
   },
   {
     name: "OCI 2025 Generative AI Professional – Oracle University",
-    img: "/images/oci-genai-professional.jpg",
-    link: "/images/oci-genai-professional.jpg"
+    img: "/images/oci-genai-professional.png",
+    link: "/images/oci-genai-professional.png"
   },
   {
     name: "Internship / Summer Training",
