@@ -20,10 +20,15 @@ const internship = {
 
 const certifications = [
 
+    {
+    name: "OCI 2025 AI Foundations Associate – Oracle University",
+    img: "/images/oci-ai-foundations.jpg",
+    link: "/images/oci-ai-foundations.jpg"
+  },
   {
-    name: "HP AI Certificate",
-    img: "/images/hp.jpg",
-    link: "/images/hp.jpg"
+    name: "OCI 2025 Generative AI Professional – Oracle University",
+    img: "/images/oci-genai-professional.jpg",
+    link: "/images/oci-genai-professional.jpg"
   },
   {
     name: "Internship / Summer Training",
@@ -35,11 +40,7 @@ const certifications = [
     img: "/images/be10.png",
     link: "/images/be10.png"
   },
-  {
-   name: "Next.js Webinar",
-    img: "/images/nextjs.png",
-     link: "/images/nextjs.png"
-  },
+ 
   
 ];
 
