@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
-import profile from "../assets/anurag.jpg";
+import profile from "../assets/anurag.png";
 
 function Hero() {
   return (
